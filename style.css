@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+    background-color: rgb(109, 109, 109);
+    font-size: large;
+    color: cornsilk;
+}
+.container {
+    max-width: 1200px;
+}
+section {
+    margin-bottom: 25px;
+}

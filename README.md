@@ -1,1 +1,1 @@
-# learning-git-2
+https://barteckstreet.github.io/learning-git-2/

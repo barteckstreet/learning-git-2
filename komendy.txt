@@ -1,0 +1,2 @@
+autoprefixer-cli -o style.prefixed.css style.css
+node-w3c-validator -i *.html -f html -o errors.html -s
